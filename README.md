@@ -2,7 +2,7 @@
 ## Introduction
 Welcome to Noreen's Cafe. Noreen's cafe is a new business model, which is opened in the town for the food lovers. It's purpose is to give people Quality food and taste. We have the world's best chef in our Cafe. Who have traveled around the world and are very professional with their work. Noreen's cafe is very neat and clean and is very higenic place. We took care of our customer very well, before serving meal we disinfect all the  crokery so that there won't be any fungus or virus. Our head Chef is very intellegent and smart. He is responsible to maintain the enviroment of the kitchen and Dinein Happy and lively.
 
-![website preview](Images/chef1.jpg)
+![website preview](assets/Images/chef1.jpg)
 
 ## Table of Contents 
 
@@ -68,34 +68,34 @@ This website consider of having images, audio/video that helps the users to unde
 <a name="introduction-page"></a>
 ### Introduction Page
 
-![Desktop Version](Images/home1-wireframe-dextop.JPG)
-![Desktop Version](Images/home2-wireframe-dextop.JPG)
-![Desktop Version](Images/home3-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/home1-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/home2-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/home3-wireframe-dextop.JPG)
 
-![Mobile Version](Images/home1mobile-wireframe-dextop.JPG)
-![Mobile Version](Images/home2mobile-wireframe-dextop.JPG)
+![Mobile Version](assets/Images/home1mobile-wireframe-dextop.JPG)
+![Mobile Version](assets/Images/home2mobile-wireframe-dextop.JPG)
 
 ### About Page
 
-![Desktop Version](Images/about1-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/about1-wireframe-dextop.JPG)
 
 
 <a name="dishes-page"></a>
 
 ### Dishes Page
 
-![Desktop Version](Images/dish1-wireframe-dextop.JPG)
-![Desktop Version](Images/dish2-wireframe-dextop.JPG)
-![Desktop Version](Images/dish3-wireframe-dextop.JPG)
-![Desktop Version](Images/dish4-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/dish1-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/dish2-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/dish3-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/dish4-wireframe-dextop.JPG)
 
 
 <a name="conatct-page"></a>
 
 ### Contact Page
 
-![Desktop Version](Images/contact1-wireframe-dextop.JPG)
-![Desktop Version](Images/contact2-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/contact1-wireframe-dextop.JPG)
+![Desktop Version](assets/Images/contact2-wireframe-dextop.JPG)
 
 # 2. Features
   [Go to the top](#table-of-contents)
@@ -116,9 +116,9 @@ This website consider of having images, audio/video that helps the users to unde
 
 Secreen shot of the Home page is below:
 
-![introduction page review ](Images/home1Secreenshot.JPG)
-![introduction page review ](Images/home2Secreenshot.JPG)
-![introduction page review ](Images/home3Secreenshot.JPG)
+![introduction page review ](assets/Images/home1Secreenshot.JPG)
+![introduction page review ](assets/Images/home2Secreenshot.JPG)
+![introduction page review ](assets/Images/home3Secreenshot.JPG)
 
 ### About Page
 
@@ -128,8 +128,8 @@ Secreen shot of the Home page is below:
 
 Secreen shot of the About page below:
 
-![About page review ](Images/about1Secreenshot.JPG)
-![About page review ](Images/about2Secreenshot.JPG)
+![About page review ](assets/Images/about1Secreenshot.JPG)
+![About page review ](assets/Images/about2Secreenshot.JPG)
 
 ### Dishes Page
 
@@ -139,15 +139,15 @@ Secreen shot of the About page below:
 
 Secreen shot of the Dishes page below:
 
-![Dish page review ](Images/dish1Secreenshot.JPG)
-![Dish page review ](Images/dish2Secreenshot.JPG)
-![Dish page review ](Images/dish3Secreenshot.JPG)
-![Dish page review ](Images/dish4Secreenshot.JPG)
-![Dish page review ](Images/dish5Secreenshot.JPG)
-![Dish page review ](Images/dish6Secreenshot.JPG)
-![Dish page review ](Images/dish7Secreenshot.JPG)
-![Dish page review ](Images/dish8Secreenshot.JPG)
-![Dish page review ](Images/dish9Secreenshot.JPG)
+![Dish page review ](assets/Images/dish1Secreenshot.JPG)
+![Dish page review ](assets/Images/dish2Secreenshot.JPG)
+![Dish page review ](assets/Images/dish3Secreenshot.JPG)
+![Dish page review ](assets/Images/dish4Secreenshot.JPG)
+![Dish page review ](assets/Images/dish5Secreenshot.JPG)
+![Dish page review ](assets/Images/dish6Secreenshot.JPG)
+![Dish page review ](assets/Images/dish7Secreenshot.JPG)
+![Dish page review ](assets/Images/dish8Secreenshot.JPG)
+![Dish page review ](assets/Images/dish9Secreenshot.JPG)
 
 ### Contact Page
 
@@ -157,9 +157,9 @@ Secreen shot of the Dishes page below:
 
 Secreen shot of the Conatct page below:
 
-![Contact page review ](Images/contact1Secreenshot.JPG)
-![Contact page review ](Images/contact2Secreenshot.JPG)
-![Contact page review ](Images/contact3Secreenshot.JPG)
+![Contact page review ](assets/Images/contact1Secreenshot.JPG)
+![Contact page review ](assets/Images/contact2Secreenshot.JPG)
+![Contact page review ](assets/Images/contact3Secreenshot.JPG)
 
 <a name="technologies-used"></a>
 
