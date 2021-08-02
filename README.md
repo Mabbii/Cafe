@@ -72,6 +72,9 @@ This website consider of having images, audio/video that helps the users to unde
 ![Desktop Version](Images/home2-wireframe-dextop.JPG)
 ![Desktop Version](Images/home3-wireframe-dextop.JPG)
 
+![Mobile Version](Images/home1mobile-wireframe-dextop.JPG)
+![Mobile Version](Images/home2mobile-wireframe-dextop.JPG)
+
 ### About Page
 
 ![Desktop Version](Images/about1-wireframe-dextop.JPG)
