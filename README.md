@@ -125,5 +125,23 @@ Secreen shot of the Home page is below:
 
 Secreen shot of the About page below:
 
-![introduction page review ](Images/about1Secreenshot.JPG)
-![introduction page review ](Images/about2Secreenshot.JPG)
+![About page review ](Images/about1Secreenshot.JPG)
+![About page review ](Images/about2Secreenshot.JPG)
+
+### Dishes Page
+
+- This page has same logo placement and navigation bar.
+- Dishes are categorized in three Section Traditional, Chinese, Fast Food.
+- Traditional dishes are displayed with their picture, description and origin.
+
+Secreen shot of the Dishes page below:
+
+![Dish page review ](Images/dish1Secreenshot.JPG)
+![Dish page review ](Images/dish2Secreenshot.JPG)
+![Dish page review ](Images/dish3Secreenshot.JPG)
+![Dish page review ](Images/dish4Secreenshot.JPG)
+![Dish page review ](Images/dish5Secreenshot.JPG)
+![Dish page review ](Images/dish6Secreenshot.JPG)
+![Dish page review ](Images/dish7Secreenshot.JPG)
+![Dish page review ](Images/dish8Secreenshot.JPG)
+![Dish page review ](Images/dish9Secreenshot.JPG)
