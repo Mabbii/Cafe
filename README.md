@@ -157,3 +157,21 @@ Secreen shot of the Conatct page below:
 ![Contact page review ](Images/contact1Secreenshot.JPG)
 ![Contact page review ](Images/contact2Secreenshot.JPG)
 ![Contact page review ](Images/contact3Secreenshot.JPG)
+
+<a name="technologies-used"></a>
+
+# 3. Technologies Used
+  [Go to the top](#table-of-contents)
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) (markup language) was used for structuring and presenting content of the website.
+ 
+* [CSS3](https://en.wikipedia.org/wiki/CSS) (Cascading Style Sheets) was used to provide the style to the content written in a HTML.
+* [Balsamiq](https://balsamiq.com/) was used to create wireframes of the website (desktop and mobile version).
+* [Font Awesome](https://fontawesome.com/) was used to improt icons to the sites.
+* [Chrome](https://www.google.com/intl/en_uk/chrome/) was used to debug and test the source code using HTML5 as well as to test site responsiveness.
+* [Github](https://github.com/) was used to create the repository and to store the cproject's code after pushed from Git.
+* [Gitpod](https://www.gitpod.io/) was used as the Code Editor for the site
+
+* [WebAim](https://webaim.org/resources/contrastchecker/) was used to select the background and font color in the website.
+* [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) tools were used to validate the HTML code and CSS style used in the proejct.
+* [Ami](http://ami.responsivedesign.is/#) was used to develop a Mockup screenshot generator
