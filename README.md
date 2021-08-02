@@ -117,3 +117,13 @@ Secreen shot of the Home page is below:
 ![introduction page review ](Images/home2Secreenshot.JPG)
 ![introduction page review ](Images/home3Secreenshot.JPG)
 
+### About Page
+
+- This page has same logo placement and navigation bar.
+- Chef's portfolio is displayed here.
+- Their Expereince and Experties are shown.
+
+Secreen shot of the About page below:
+
+![introduction page review ](Images/about1Secreenshot.JPG)
+![introduction page review ](Images/about2Secreenshot.JPG)
