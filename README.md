@@ -145,3 +145,15 @@ Secreen shot of the Dishes page below:
 ![Dish page review ](Images/dish7Secreenshot.JPG)
 ![Dish page review ](Images/dish8Secreenshot.JPG)
 ![Dish page review ](Images/dish9Secreenshot.JPG)
+
+### Contact Page
+
+- This page has same logo placement and navigation bar.
+- Location of our cafe is displayed.
+- A leave us note is placed there, so that user can give review about our service. which is very important for us.
+
+Secreen shot of the Conatct page below:
+
+![Contact page review ](Images/contact1Secreenshot.JPG)
+![Contact page review ](Images/contact2Secreenshot.JPG)
+![Contact page review ](Images/contact3Secreenshot.JPG)
