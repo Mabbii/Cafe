@@ -175,3 +175,71 @@ Secreen shot of the Conatct page below:
 * [WebAim](https://webaim.org/resources/contrastchecker/) was used to select the background and font color in the website.
 * [W3C Markup](https://validator.w3.org/) and [Jigsaw validation](https://jigsaw.w3.org/) tools were used to validate the HTML code and CSS style used in the proejct.
 * [Ami](http://ami.responsivedesign.is/#) was used to develop a Mockup screenshot generator
+
+  <a name="testing"></a>
+# 4. Testing
+  [Go to the top](#table-of-contents)
+## 4.1 Testing using tools
+### 4.1.1 Google Developer Tools
+I make use of google developer tools (Chrome DevTools) as debugging tools. Using this tool i inspect for every elements that I added in HTML and CSS style. Once I was happy with, I copy the CSS style code from Chrome DevTools and paste in my CSS style sheet.
+
+### 4.1.2 Responsive Tools
+
+In order to make sure that design web pages are responsive to all device sizes, [Am I Responsive](http://ami.responsivedesign.is/) site was used to check it. 
+
+### 4.1.3 W3C Validator Tools
+
+[W3C Markup] (https://validator.w3.org/) was used to check for any errors within my HTML pages.
+[W3C CSS Validation](https://jigsaw.w3.org/css-validator/) was used to check for any error within my CSS stylesheet. No errors were found.
+
+## 4.2 Manual Testing
+
+I have tested my site on multiple devices. These include:
+  - Galaxy S5 (360 x 640)
+  - iPhone 6/7/8 (375 x 667) 
+  - iPhone 6/7/8 plus (414 x 736)
+  - ipad (768 x 1024)
+  - iPhone XS Max
+  - iPad Pro (1024 x 1366)
+  - Huawei P20 Pro
+  
+  <a name="bugs"></a>
+# 5. Bugs
+  [Go to the top](#table-of-contents)
+
+### Bugs
+
+- The images directory is misspelled which is not showing images on live view.
+
+### Solved Bugs
+
+- I correct the spelling and images starts shwoing in live view.
+
+   <a name="deployment"></a>
+# 6. Deployment
+  [Go to the top](#table-of-contents)
+
+The site was deployed to GitHub pages using the following steps:
+- Sign up to GutHub
+- Create a new repository on GitHub.
+- Click on settings on the navigation bar under the repository title.
+- Select pages on the left menu bar.
+- Click on the master branch and save.
+- This will now generate a link with your website live.
+- The live link can be found here - (https://noreen-wb.github.io/Noreen-s-Cafe/Index.html)
+
+<a name="acknowledgement"></a>
+# 7. Acknowledgement
+  [Go to the top](#table-of-contents)
+### Code
+* The structure of the website came from the easy Tutorials.
+* Naviagtion bar came from a youtube video https://www.youtube.com/watch?v=oYRda7UtuhA&t=3480s
+* Coding for feedback.html page was inspired from differnt tutorial from https://codeinstitute.net/ 
+* The icons in the footer and contact page came from [Font Awesome](https://fontawesome.com/)
+* For README.md file, reference of https://github.com/Chris-McGonigle/emmas-beauty-parlour and https://github.com/iKelvvv/MS1 was considered. 
+* Thanks to my mentor Marcel Mulders for his constructive feedback.
+
+### Content
+* All images came from unsplash https://unsplash.com/s/photos/food?orientation=landscape
+* Description of the chefs was taken from varius google links.
+* Famous Chef names and picture were taken from ther personal websites and google.
